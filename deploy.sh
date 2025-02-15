@@ -12,14 +12,13 @@ cd dist
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME
 
+# initialize git if not already initialized
 git init
+git checkout -b gh-pages  # Make sure we're on the gh-pages branch
 git add -A
 git commit -m 'deploy'
 
-# if you are deploying to https://<USERNAME>.github.io
-# git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git main
-
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:aconite12/Router.git main:gh-pages
+git push -f git@github.com:aconite12/Router.git gh-pages
 
 cd -
