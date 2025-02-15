@@ -1,6 +1,6 @@
 <template>
-    <div class="container mt-5"> <!-- Increased top margin -->
-        <div class="card p-3 custom-card">
+    <div class="container">
+        <div class="card p-3">
             <div class="row align-items-center">
                 <!-- Left Column: Circular Image -->
                 <div class="col-md-4 text-center img-wrapper">
@@ -33,10 +33,6 @@ export default {
 </script>
 
 <style scoped>
-.custom-card {
-    margin-top: 200px;
-}
-
 .profile-img {
     width: 300px;
     height: 300px;

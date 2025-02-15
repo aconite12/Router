@@ -5,11 +5,8 @@
   </div>
 </template>
 
-<!-- <script>
-
-// export default {
-//   components: {
-    
-//   },
-// };
-// </script> -->
+<style>
+  body {
+    background-color: #fefbea !important;
+  }
+</style>

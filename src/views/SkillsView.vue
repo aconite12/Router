@@ -1,6 +1,10 @@
 <template>
   <div>
-    <NavbarComponent />
+    <NavbarComponent class="mb-3"/>
+    <div class="container">
+
+    </div>
+    <FooterComponent class="mt-5"/>
   </div>
 </template>
 
