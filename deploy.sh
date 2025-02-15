@@ -14,7 +14,6 @@ cd dist
 
 # initialize git if not already initialized
 git init
-git checkout -b gh-pages  # Make sure we're on the gh-pages branch
 git add -A
 git commit -m 'deploy'
 
