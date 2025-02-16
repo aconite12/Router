@@ -27,14 +27,14 @@
                 <div class="col-md-4 mb-3">
                     <h5>Follow Me On</h5>
                     <a href="https://www.facebook.com/raven.g.lagmay/" target="_blank" class="text-white me-2">
-                        <i class="fa-brands fa-facebook "></i>
+                        <i class="fa-brands fa-facebook fa-2x"></i>
                     </a>
                     <a href="https://github.com/aconite12" target="_blank" class="text-white me-2">
-                        <i class="fa-brands fa-github"></i>
+                        <i class="fa-brands fa-github fa-2x"></i>
                     </a>
                     <a href="https://www.linkedin.com/in/raven-glenn-lagmay-3a985b27b/" target="_blank"
                         class="text-white">
-                        <i class="fa-brands fa-linkedin"></i>
+                        <i class="fa-brands fa-linkedin fa-2x"></i>
                     </a>
                 </div>
             </div>
